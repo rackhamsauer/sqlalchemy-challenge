@@ -1,1 +1,3 @@
 # sqlalchemy-challenge
+
+First I connected my db for the Hawaii data and determined that all tables could be seen. I then spent a lot of time trying to figureout the best way to pull the date from the information. This was my first real dive into flask, and it was really neat to be able to put up a website quickly. I utilized all the previous class modules and recordings, classmates, tutors, chatgpt, and stack overflow to work through this assignment. I tried to make my graphs look nice by adding an 'edge' to the histogram, and making a forced range in the larger graph.
